@@ -16,7 +16,7 @@ A full-stack food delivery platform built with the MERN stack (MongoDB, Express.
 *Explore diverse menu categories and discover top dishes near you*
 
 ### Admin Dashboard
-![Order Management](./screenshots/admin-orders.png)
+![Order Management]([./screenshots/admin-orders.png](https://github.com/shubheshkumar0/GrabitGo-Food-Delivery-Web-App/blob/main/Screenshot%202026-01-21%20165819.png?raw=true))
 *Real-time order tracking and management dashboard*
 
 ## ✨ Features
