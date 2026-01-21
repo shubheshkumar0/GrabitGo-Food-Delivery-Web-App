@@ -12,7 +12,7 @@ A full-stack food delivery platform built with the MERN stack (MongoDB, Express.
 ![Home Page](https://github.com/shubheshkumar0/GrabitGo-Food-Delivery-Web-App/blob/main/Screenshot%202026-01-21%20165743.png?raw=true)
 *Beautiful landing page with hero section and call-to-action*
 
-![Menu Categories]([./screenshots/menu-categories.png](https://github.com/shubheshkumar0/GrabitGo-Food-Delivery-Web-App/blob/main/Screenshot%202026-01-21%20165805.png?raw=true))
+![Menu Categories]([[./screenshots/menu-categories.png](https://github.com/shubheshkumar0/GrabitGo-Food-Delivery-Web-App/blob/main/Screenshot%202026-01-21%20165805.png?raw=true)](https://github.com/shubheshkumar0/GrabitGo-Food-Delivery-Web-App/blob/main/Screenshot%202026-01-21%20165805.png?raw=true))
 *Explore diverse menu categories and discover top dishes near you*
 
 ### Admin Dashboard
